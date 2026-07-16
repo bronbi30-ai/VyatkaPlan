@@ -1,0 +1,12 @@
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Логи
+*.log
+
+# Временные файлы
+*.tmp
